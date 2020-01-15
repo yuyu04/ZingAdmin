@@ -1,0 +1,33 @@
+{
+  "@@last_modified": "2020-01-03T10:41:27.776866",
+  "entrance": "입장",
+  "@entrance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancle": "취소",
+  "@cancle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitingTeam": "대기팀",
+  "@waitingTeam": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "team": "팀",
+  "@team": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitingTime": "예상대기시간",
+  "@waitingTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minute": "분",
+  "@minute": {
+    "type": "text",
+    "placeholders": {}
+  }
+}

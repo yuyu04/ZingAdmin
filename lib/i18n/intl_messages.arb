@@ -1,0 +1,33 @@
+{
+  "@@last_modified": "2020-01-03T11:52:49.586257",
+  "entrance": "entrance",
+  "@entrance": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "cancle": "cancle",
+  "@cancle": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitingTeam": "waiting team",
+  "@waitingTeam": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "team": "team",
+  "@team": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "waitingTime": "waiting time",
+  "@waitingTime": {
+    "type": "text",
+    "placeholders": {}
+  },
+  "minute": "minute",
+  "@minute": {
+    "type": "text",
+    "placeholders": {}
+  }
+}
